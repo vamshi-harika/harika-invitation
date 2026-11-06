@@ -25,7 +25,7 @@ window.INVITE = {
   events: [
     { date: '2026-11-18', time: '11:00', title: 'Haldi & Mehandi', telugu: 'హల్దీ & మెహందీ', place: 'arden', note: 'Lunch & dinner follows', dress: [['Haldi', 'Shades of Sunshine, wear your brightest yellows'], ['Mehandi', 'Tropical Brights, think bold colours and florals']] },
     { date: '2026-11-19', time: '10:00', title: 'Pellikuturu', telugu: 'పెళ్లికూతురు', place: 'bride', note: 'Lunch follows', line: 'Harika officially becomes the bride. Bring your camera.' },
-    { date: '2026-11-21', time: '10:04', title: 'The Marriage', telugu: 'సుముహూర్తం', place: 'kbr', main: true, note: '', dress: [['Dress code', 'Let’s celebrate in traditional hues']] },
+    { date: '2026-11-21', time: '10:04', title: 'The Marriage', telugu: 'సుముహూర్తం', place: 'kbr', main: true, note: '', dress: [['', 'Let’s celebrate in traditional hues']] },
     { date: '2026-11-22', time: '11:30', title: 'Sathyanarayana Katha', telugu: 'సత్యనారాయణ కథ', place: 'groom', note: 'Lunch follows', line: 'At the groom’s home, first.' },
     { date: '2026-11-23', time: '11:30', title: 'Sathyanarayana Katha', telugu: 'సత్యనారాయణ కథ', place: 'bride', note: 'Lunch follows', line: 'Then the bride’s side takes its turn.' },
   ],
